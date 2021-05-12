@@ -1,0 +1,184 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #0b0705;
+  margin: auto 10px auto 10px;
+
+}
+hr {
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 8px;
+  width: 5%;
+  color: gray;
+  margin: 100px auto 100px auto;
+}
+
+p{
+  font-weight: bold;
+  line-height: 2;
+  margin: 0;
+  color: #333333;
+}
+
+.top-container {
+  background-color: #fcde67;
+  background-color: #add8e6;
+  padding-top: 100px;
+}
+
+.instagram {
+  color: gray;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 1rem;
+  position: absolute;
+  top: 18px;
+  right: 52px;
+}
+
+.instagram:hover {
+  color: #030e12;
+}
+
+.instagram-icon-image{
+  width: 1.65%;
+  position: absolute;
+  top: 16px;
+  right: 23px;
+}
+
+/*************************************** MIDDLE CONTAINER ******************************************/
+
+.middle-container {
+  background-color: #f3e4f1;
+  margin: 0;
+  padding-top: 100px;
+  display: inline-block;
+}
+
+.intro {
+  margin: 100px auto 70px;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  margin-top: 0;
+}
+
+.sumeyye-photo {
+  width: 32.5%;
+}
+
+.top-heading {
+  color: #030e12;
+  font-family: 'Sacramento', cursive;
+  font-size: 550% ;
+  margin: 0 ;
+}
+
+.second-heading {
+  color: #5bccf6;
+  color: #030e12;
+  font-family: 'Montserrat', sans-serif;
+  width: 25%;
+  margin: 0 auto;
+  position: absolute;
+  left: 37.5%;
+  top: 262.5px;
+}
+
+
+.cat-illustration {
+  width: 50%;
+  margin-top: 20px;
+  position: relative;
+  top: 10px;
+
+}
+/******************************************* SENSE OF HUMOUR **************************************************/
+.humour-message {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.laughing-image {
+  width: 23% ;
+  float: left;
+  margin-right: 30px;
+}
+
+/******************************************* STUNNING LOOKS **************************************************/
+
+.beautiful-message {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.beauty-image {
+  width: 25% ;
+  float: right;
+  margin-left: 30px;
+}
+
+/******************************************* BIG HEART **************************************************/
+
+.heart-image {
+  width: 25% ;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 70px;
+  margin-bottom: 150px;
+}
+
+
+.heart-message {
+  width: 50%;
+  margin: 100px auto 75px auto;
+  text-align: left;
+}
+
+/******************************************* BOTTOM CONTAINERNR **************************************************/
+.bottom-container {
+  background-color: #ecc9c7;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.hate-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 70px;
+  margin-bottom: 65px;
+}
+
+.hate-message {
+  width: 50%;
+  margin: 100px auto auto auto;
+  text-align: left;
+}
+
+/******************************************* FINAL CONTAINERNR **************************************************/
+
+.final-container {
+  background-color: #ffc17a;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.from {
+  font-family: 'Sacramento', cursive;
+  font-size: 200%;
+}
+
+.pumpkin {
+  width: 7%;
+}
